@@ -6,7 +6,7 @@
 :red_car: Currently, I'm working on the telemetry system for the Midnight Sun Solar Car Team
 
 # How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/AveryChiu64)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/AveryChiu)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/AveryChiu64)
 
