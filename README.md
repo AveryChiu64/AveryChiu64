@@ -15,4 +15,4 @@
 🏋️ I am a weightlifter as well, my current stats are below \
 Snatch: 80 kg \
 Clean and Jerk: 90 kg \
-Squat: 145 kg \
+Squat: 145 kg
