@@ -3,7 +3,7 @@
 # About Me
 :school: I am a Mechatronics Engineering student at the University of Waterloo \
 :computer: I love working on firmware/hardware projects and seeing my code interact with the world around me \
-:red_car: Currently, I'm working on the telemetry system for the Midnight Sun Solar Car Team \
+:red_car: Currently, I'm working on the telemetry system for the Midnight Sun Solar Car Team
 
 # How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/AveryChiu64)
