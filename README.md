@@ -12,7 +12,4 @@
 
 # Fun Facts
 :musical_note: I am play upright and electric bass, specifically focusing on classical music for the upright bass \
-🏋️ I am a weightlifter as well, my current stats are below \
-Snatch: 80 kg \
-Clean and Jerk: 90 kg \
-Squat: 145 kg
+🏋️ I have competed in weightlifting before (not powerlifting but weightlifting)
