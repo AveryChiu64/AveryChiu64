@@ -25,6 +25,8 @@
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/AveryChiu64)
 
+
 # Fun Facts
 :musical_note: I am play upright and electric bass, specifically focusing on classical music for the upright bass \
 🏋️ I have competed in weightlifting before (not powerlifting but weightlifting)
+e
