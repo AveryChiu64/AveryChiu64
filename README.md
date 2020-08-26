@@ -5,6 +5,23 @@
 :computer: I love working on firmware/hardware projects and seeing my code interact with the world around me \
 :red_car: Currently, I'm working on the telemetry system for the Midnight Sun Solar Car Team
 
+# Skills
+* C/C++
+* Python
+* SQL
+* Java
+* Labview
+
+# Tools
+* Git/Github/Gitlab
+* Linux
+* Google BigQuery
+* MongoDB
+* VSCode
+* Vim
+* Eclipse
+* STM32CubeIDE
+
 # How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/AveryChiu)
 &nbsp;
