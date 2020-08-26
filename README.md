@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi 👋 I'm Avery!
 
-<!--
-**AveryChiu64/AveryChiu64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
+:school: I am a Mechatronics Engineering student at the University of Waterloo \
+:computer: I love working on firmware/hardware projects and seeing my code interact with the world around me \
+:red_car: Currently, I'm working on the telemetry system for the Midnight Sun Solar Car Team \
 
-Here are some ideas to get you started:
+# How to reach me: 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/AveryChiu64)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/AveryChiu64)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Fun Facts
+:musical_note: I am play upright and electric bass, specifically focusing on classical music for the upright bass \
+🏋️ I am a weightlifter as well, my current stats are below \
+Snatch: 80 kg \
+Clean and Jerk: 90 kg \
+Squat: 145 kg \
