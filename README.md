@@ -8,7 +8,9 @@
 * Python
 * SQL
 * Java
+* Dart
 * Labview
+* VHDL
 
 # Tools
 * Git/Github/Gitlab
