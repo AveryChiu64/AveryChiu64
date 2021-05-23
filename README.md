@@ -5,6 +5,7 @@
 
 # Skills
 * C/C++
+* MATLAB
 * Python
 * SQL
 * Java
