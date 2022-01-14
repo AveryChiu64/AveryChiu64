@@ -1,5 +1,5 @@
 ## Hi 👋 I'm Avery!
-:school: I am a Mechatronics Engineering student at the University of Waterloo \
+:school: I am a Mechatronics Engineering student specializing in the Artificial Intelligence option at the University of Waterloo \
 :computer: My interests include machine learning, embedded systems, computer vision, and brain computer-interfaces
 
 # My Programming Languages
