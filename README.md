@@ -1,27 +1,39 @@
 ## Hi 👋 I'm Avery!
 :school: I am a Mechatronics Engineering student at the University of Waterloo \
-:computer: I love working on firmware/hardware projects and seeing my code interact with the world around me \
-:red_car: Currently, I'm working on the telemetry system for the Midnight Sun Solar Car Team
+:computer: My interests include machine learning, embedded systems, computer vision, and brain computer-interfaces \
 
-# Skills
+# My Programming Languages
+* Python
 * C/C++
 * MATLAB
-* Python
 * SQL
 * Java
 * Dart
 * Labview
 * VHDL
+* HTML
+* Javascript
+* CSS
 
-# Tools
+# ML Skills
+* PyTorch
+* Tensorflow
+* Numpy
+* Matplotlib
+* Pandas
+
+# Embedded Skills
+* RTOS
+* Driver Development
+* STM32
+* Arduino
+* Raspberry Pi
+
+# Other Tools
 * Git/Github/Gitlab
 * Linux
 * Google BigQuery
 * MongoDB
-* VSCode
-* Vim
-* Eclipse
-* STM32CubeIDE
 
 # Fun Facts
 :musical_note: I am play upright and electric bass, specifically focusing on classical music for the upright bass \
