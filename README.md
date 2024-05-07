@@ -1,8 +1,6 @@
-👋 Hey there! I'm Avery, CTO of Symphonic Labs, leading the charge in building a groundbreaking wearable silent speech device.
-
-🔗 Our website is here [Symphonic Labs](https://symphoniclabs.ca/):
-
 ## About Me:
+
+👋 Hey there! I'm Avery, CTO of Symphonic Labs, leading the charge in building a groundbreaking wearable silent speech device.
 
 🔬 UWaterloo 24' Mechatronics Engineering
 
@@ -10,7 +8,9 @@
 
 🚗 Prev @ Tesla and SBX Robotics (YC W21)
 
-## Current Projects:
+## Symphonic Labs
+
+🔗 Our website is here [Symphonic Labs](https://symphoniclabs.ca/):
 
 🎧 **Wearable Silent Speech Device:** Our team at Symphonic Labs is on a mission to revolutionize communication with our neural interface that translates facial muscle movements into voice for telepathic communication.
 
