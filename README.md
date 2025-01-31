@@ -12,8 +12,6 @@
 
 🔗 Our website is here [Symphonic Labs](https://symphoniclabs.ca/):
 
-🎧 **Wearable Silent Speech Device:** Our team at Symphonic Labs is on a mission to revolutionize communication with our neural interface that translates facial muscle movements into voice for telepathic communication.
-
 🌱 Interested in collaborating or contributing to our project? Feel free to reach out!
 
 📫 Contact Me: [Twitter](https://twitter.com/avery_chiu)
