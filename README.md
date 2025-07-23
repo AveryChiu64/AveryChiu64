@@ -1,6 +1,6 @@
 ## About Me:
 
-👋 Hey there! I'm Avery, CTO of Symphonic Labs, leading the charge in building a groundbreaking wearable silent speech device.
+👋 Hey there! I'm Avery, CTO of Symphonic Labs, making Waves
 
 🔬 UWaterloo 24' Mechatronics Engineering
 
@@ -12,6 +12,4 @@
 
 🔗 Our website is here [Symphonic Labs](https://symphoniclabs.ca/):
 
-🌱 Interested in collaborating or contributing to our project? Feel free to reach out!
-
-📫 Contact Me: [Twitter](https://twitter.com/avery_chiu)
+📫 Contact Me: [avery@symphoniclabs.com](mailto:avery@symphoniclabs.com)
